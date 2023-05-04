@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    },
+    {
+      "path": "FlowScreenComponentsBasePack",
+      "default": false
+    },   
+    {
+      "path": "SendBetterEmail",
+      "default": false
+    }
+  ],
+  "name": "testlabels",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "56.0"
+}
